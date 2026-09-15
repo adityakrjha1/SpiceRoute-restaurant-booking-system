@@ -23,7 +23,7 @@
   <a href="https://spiceroute-frontend.onrender.com">
     <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Website-00C7B7?style=for-the-badge" />
   </a>
-  <a href="https://github.com/vikis3643/SpiceRoute">
+  <a href="https://github.com/adityakrjha1/SpiceRoute">
     <img src="https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -283,7 +283,7 @@ Building this project helped demonstrate practical knowledge of:
 
 # 👨‍💻 Developer
 
-## Vikash Kumar Jha
+## Aditya Kumar Jha
 
 **BCA Student | Aspiring Full Stack Java Developer**
 
@@ -301,8 +301,8 @@ Web Development
 ```
 
 <p align="center">
-  <a href="https://github.com/vikis3643">
-    <img src="https://img.shields.io/badge/GitHub-vikis3643-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/adityakrjha1">
+    <img src="https://img.shields.io/badge/GitHub-adityakrjha1-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
