@@ -23,7 +23,7 @@
   <a href="https://spiceroute-frontend.onrender.com">
     <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Website-00C7B7?style=for-the-badge" />
   </a>
-  <a href="[https://github.com/adityakrjha1/SpiceRoute](https://github.com/adityakrjha1/SpiceRoute)">
+  <a href="https://github.com/adityakrjha1/SpiceRoute">
     <img src="https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
